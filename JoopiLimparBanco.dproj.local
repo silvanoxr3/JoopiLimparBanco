@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/25 15:55:05.000.932,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/12/14 17:33:22.000.564,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/05 09:55:37.000.907,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/12 15:48:50.000.352,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/24 10:52:17.000.672,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/03 09:34:11.000.166,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/03 13:59:21.000.227,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/03 14:52:04.000.811,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/03 16:22:44.000.231,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/17 17:01:25.000.329,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/29 17:21:53.000.740,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/23 09:14:46.000.029,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/13 10:47:53.000.711,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/09/13 10:54:05.000.427,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/09/13 14:14:56.000.672,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/12/18 15:51:13.000.072,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/03/07 16:55:23.000.287,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/06/13 10:56:10.000.533,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/06/13 16:11:54.000.853,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/06/14 10:51:55.000.803,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/07/04 09:19:55.000.531,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/02/05 09:22:36.000.565,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/05/03 15:19:43.000.678,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/05/15 08:23:11.000.643,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/05/20 10:03:33.000.833,=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/05/20 10:05:28.000.086,D:\Silvano2\ConversorFernando\UPrincipal.pas=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/05/20 10:05:28.000.086,D:\Silvano2\ConversorFernando\UPrincipal.dfm=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2019/05/20 10:05:42.000.771,D:\Silvano2\ConversorFernando\ConversorFernando.dproj=C:\Users\silvanoaugusto\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/05/12 16:01:06.000.954,C:\Sistemas\FastConversor\FastConversorProduto.dproj=C:\Sistemas\FastConversor\ConversorFernando.dproj</Transaction>
+    <Transaction>2020/06/04 19:51:20.000.555,=C:\Sistemas\FastConversor\funcoes.pas</Transaction>
+    <Transaction>2020/06/04 20:03:18.000.762,C:\Sistemas\FastConversor\FastConversorProduto.dproj=C:\Sistemas\FastConversor\FastConversor.dproj</Transaction>
+    <Transaction>2021/01/28 15:41:12.000.720,=C:\Sistemas\FastComercio\uDM.pas</Transaction>
+    <Transaction>2021/01/28 15:43:47.000.209,=C:\Sistemas\FastComercio\ufrMensagens.pas</Transaction>
+    <Transaction>2021/01/28 15:44:12.000.632,=C:\Sistemas\FastComercio\reconcilie.pas</Transaction>
+    <Transaction>2021/01/28 15:44:39.000.726,=C:\Sistemas\FastComercio\UMensagemNFE.pas</Transaction>
+    <Transaction>2021/01/28 18:53:21.000.693,C:\Sistemas\FastComercio\uDM.pas=</Transaction>
+    <Transaction>2021/01/28 18:53:26.000.730,C:\Sistemas\FastComercio\UMensagemNFE.pas=</Transaction>
+    <Transaction>2021/01/28 18:53:32.000.785,C:\Sistemas\FastComercio\reconcilie.pas=</Transaction>
+    <Transaction>2021/01/28 18:53:39.000.285,C:\Sistemas\FastComercio\ufrMensagens.pas=</Transaction>
+    <Transaction>2021/03/04 06:08:23.000.405,C:\Sistemas\FastConversorACR\FastConversorACR.dproj=C:\Sistemas\FastConversorACR\FastConversor.dproj</Transaction>
+    <Transaction>2021/03/05 06:49:00.000.487,C:\Sistemas\JoopiLimparBanco\FastConversorACR.dproj=C:\Sistemas\JoopiLimparBanco\JoopiLimparBanco.dproj</Transaction>
+    <Transaction>2021/03/06 07:16:16.000.360,C:\Sistemas\Manutencao_Banco\Manutencao_Banco.dproj=C:\Sistemas\Manutencao_Banco\JoopiLimparBanco.dproj</Transaction>
+    <Transaction>2021/08/05 17:11:56.858,C:\Sistemas\JoopiLimparBanco\JoopiLimparBanco.dproj=C:\Sistemas\JoopiLimparBanco\Manutencao_Banco.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
