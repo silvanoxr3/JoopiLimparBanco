@@ -118,11 +118,6 @@ begin
 
     Gauge1.Progress := 11;
 
-    VSSql := 'DELETE FROM MENSAGEMWHATS';
-    ExecutaSQL(VSSql);
-
-    Gauge1.Progress := 11;
-
 
 
     VSSql := 'DELETE FROM MDFE_CONDUTOR';
@@ -279,36 +274,6 @@ begin
     VSSql := 'DELETE FROM PEDIDO_CHEQUE';
     ExecutaSQL(VSSql);
 
-    Gauge1.Progress := 37;
-
-    VSSql := 'DELETE FROM PEDIDO_ACRESCIMO';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
-
-    VSSql := 'DELETE FROM PEDIDO_CARTAO';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
-
-    VSSql := 'DELETE FROM PEDIDO_PAGAMENTOPARCIAL';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
-
-    VSSql := 'DELETE FROM PEDIDO_PRODUTOCANC';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
-
-
-    VSSql := 'DELETE FROM PEDIDO_PRODUTODET';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
-
-    VSSql := 'DELETE FROM PEDIDO_PRODUTOENTREGUE';
-    ExecutaSQL(VSSql);
     Gauge1.Progress := 38;
 
     VSSql := 'DELETE FROM PEDIDO';
@@ -488,10 +453,6 @@ begin
 
     Gauge1.Progress := 11;
 
-    VSSql := 'DELETE FROM MENSAGEMWHATS';
-    ExecutaSQL(VSSql);
-
-    Gauge1.Progress := 11;
 
 
     VSSql := 'DELETE FROM MDFE_CONDUTOR';
@@ -649,38 +610,8 @@ begin
 
     VSSql := 'DELETE FROM PEDIDO_CHEQUE';
     ExecutaSQL(VSSql);
+
     Gauge1.Progress := 38;
-
-    VSSql := 'DELETE FROM PEDIDO_ACRESCIMO';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
-
-    VSSql := 'DELETE FROM PEDIDO_CARTAO';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
-
-    VSSql := 'DELETE FROM PEDIDO_PAGAMENTOPARCIAL';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
-
-    VSSql := 'DELETE FROM PEDIDO_PRODUTOCANC';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
-
-
-    VSSql := 'DELETE FROM PEDIDO_PRODUTODET';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
-
-    VSSql := 'DELETE FROM PEDIDO_PRODUTOENTREGUE';
-    ExecutaSQL(VSSql);
-    Gauge1.Progress := 38;
-
 
     VSSql := 'DELETE FROM PEDIDO';
     ExecutaSQL(VSSql);

@@ -2,7 +2,7 @@ object FPrincipalConversor: TFPrincipalConversor
   Left = 0
   Top = 0
   Align = alClient
-  Caption = 'Manuten'#231#227'o Banco - Vs 07/09/2021'
+  Caption = 'Manuten'#231#227'o Banco - Vs 09/08/2021'
   ClientHeight = 232
   ClientWidth = 892
   Color = clBtnFace
